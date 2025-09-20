@@ -1,0 +1,10 @@
+-Wall
+-Wextra
+-g
+-std=c23
+-O3
+-DSTM32C071xx=1
+-Idrivers/stm32c0xx
+-Idrivers/common
+-Idrivers
+-Iinclude
